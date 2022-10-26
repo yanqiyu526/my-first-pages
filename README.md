@@ -2,10 +2,17 @@
 
 Welcome to my website
 
-i am yanqi yu
+I am Yanqi Yu (2003.5.26)
 
 ## Skills
 
-python
-badminton
+- python
+- microeconomics
+- maths
+
+## Hobbies
+
+- Badminton
+- Chess
+- Travelling
 
